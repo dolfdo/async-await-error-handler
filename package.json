@@ -1,0 +1,25 @@
+{
+  "name": "async-await-error-handler",
+  "version": "1.0.1",
+  "description": "A simple utility to handle async/await operations with less boilerplate.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dolfdo/async-await-error-handler"
+  },
+  "keywords": [
+    "async",
+    "await",
+    "error-handling",
+    "utilities"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "optional.js": "^1.0.0",
+    "you-dont-need-promise": "^1.0.0"
+  }
+}
